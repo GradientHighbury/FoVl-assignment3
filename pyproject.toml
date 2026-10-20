@@ -8,4 +8,5 @@ dependencies = [
     "opencv-python>=5.0.0.93",
     "pyyaml>=6.0.3",
     "ultralytics>=8.4.182",
+    "ipykernel"
 ]

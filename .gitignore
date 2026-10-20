@@ -218,3 +218,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+#history
+*.history
+
+
+#zip
+*.zip
+
+#jpg/txt
+*.jpg
+*.txt
+
+#license
+*LICENSE
+
+*.pt,
+*.jpg
+*.yaml
+*.png
+*.cache
